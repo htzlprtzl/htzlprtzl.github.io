@@ -14,7 +14,11 @@ $grey-color-dark:  darken($grey-color, 25%);
         "layout"
 ;
 
-@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+//@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+@font-face {
+    font-family: edmundsbury-serif; 
+    src: url('../assets/fonts/Edmundsbury Serif.ttf');
+}
 html, body {
     overflow-x: hidden;
     height: 100%;
@@ -23,7 +27,7 @@ body {
     background: #fff;
     padding: 0;
     margin: 0;
-    font-family: 'Varela Round', sans-serif;
+    font-family: edmundsbury-serif;
 }
 .header {
     display: block;
@@ -43,12 +47,12 @@ body {
     z-index: 1001;
     filter: invert(100%);
 }
-.site-title {
+.site-title > h1{
     text-align:center;
     padding-top:100px;
 }
 .container {
-    padding-top: 70px;
+    padding-top: 30px;
 }
 .main {
     margin: 0 auto;
