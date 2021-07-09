@@ -1,11 +1,31 @@
 <header class="site-header">
-  <a class="site-title" href="{{ site.baseurl }}/"><img src="holder.js/500x150"></a>
-    
-  <nav class="navbar">
-    <ul>
-      <li class="nav-item"><a href="{{ site.baseurl }}/">home</a></li>
-      <li class="nav-item"><a href="{{ site.baseurl }}/about/">about</a></li>
+  <!-- TODO: This is ripped from a tutorial. Could use cleaning. --> 
+  <div class="header">
+  <a class="site-logo" href="{{ site.baseurl }}/">
+      <img src="assets/images/ah_logo_2021.png">
+  </a>
+  </div>
+  <input type="checkbox" class="openSidebarMenu" id="openSidebarMenu">
+  <label for="openSidebarMenu" class="sidebarIconToggle">
+    <div class="spinner diagonal part-1"></div>
+    <div class="spinner horizontal"></div>
+    <div class="spinner diagonal part-2"></div>
+  </label>
+  <div id="sidebarMenu">
+    <ul class="sidebarMenuInner">
+      <li>Audrey Hetzel <span>Master Debater</span></li>
+      <li><a href="{{ site.baseurl }}/">home</a></li>
+      <li><a href="{{ site.baseurl }}/about/">about</a></li>
+      <li><a href="{{ site.baseurl }}/gallery/">gallery</a></li>
+      <li><a href="{{ site.baseurl }}/contact/">contact</a></li>
     </ul>
-  </nav>
+  </div>
+  <!-- TODO: Need padding under this image. --> 
+    
+  <div class="site-title"> 
+      <h1>
+          Audrey Hetzel Jewelry 
+      </h1>
+  </div>
 
 </header>
