@@ -8,6 +8,7 @@ preview:
 pictures:
 - filename: "Box and Solitaire WIP.jpg"
   original: "Box and Solitaire WIP.jpg"
+  caption: "This is a test caption"
   sizes:
   - "Box and Solitaire WIP.jpg"
   thumbnail: "thumbs/Box and Solitaire WIP.jpg"
