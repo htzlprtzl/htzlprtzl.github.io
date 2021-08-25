@@ -1,18 +1,103 @@
-picture_path: Arachnophilia_1
+picture_path: GoelxHetzel_2
 preview:
-  filename: Box and Solitaire WIP
-  original: Box and Solitaire WIP.jpg
+  filename: "Skeleton 5 WIP.jpg"
+  original: "Skeleton 5 WIP.jpg"
   sizes:
-  - Box and Solitaire WIP.jpg
-  thumbnail: Box and Solitaire WIP.jpg
+  - "Skeleton 5 WIP.jpg"
+  thumbnail: "thumbs/Skeleton 5 WIP.jpg"
 pictures:
-- filename: Box and Solitaire WIP
-  original: Box and Solitaire WIP.jpg
+- filename: "Chest WIP.jpg"
+  original: "Chest WIP.jpg"
   sizes:
-  - Box and Solitaire WIP.jpg
-  thumbnail: Box and Solitaire WIP.jpg
-- filename: Chain Brooch 2 WIP
-  original: Chain Brooch 2 WIP.jpg
+  - "Chest WIP.jpg"
+  thumbnail: "thumbs/Chest WIP.jpg"
+- filename: "Cuffs WIP.jpg"
+  original: "Cuffs WIP.jpg"
   sizes:
-  - Chain Brooch 2 WIP.jpg
-  thumbnail: Chain Brooch 2 WIP.jpg
+  - "Cuffs WIP.jpg"
+  thumbnail: "thumbs/Cuffs WIP.jpg"
+- filename: "Fashion Show 1.jpg"
+  original: "Fashion Show 1.jpg"
+  sizes:
+  - "Fashion Show 1.jpg"
+  thumbnail: "thumbs/Fashion Show 1.jpg"
+- filename: "Fashion Show 2.jpg"
+  original: "Fashion Show 2.jpg"
+  sizes:
+  - "Fashion Show 2.jpg"
+  thumbnail: "thumbs/Fashion Show 2.jpg"
+- filename: "Fashion Show 3.jpg"
+  original: "Fashion Show 3.jpg"
+  sizes:
+  - "Fashion Show 3.jpg"
+  thumbnail: "thumbs/Fashion Show 3.jpg"
+- filename: "Fashion Show 4.jpg"
+  original: "Fashion Show 4.jpg"
+  sizes:
+  - "Fashion Show 4.jpg"
+  thumbnail: "thumbs/Fashion Show 4.jpg"
+- filename: "Fashion Show 5.jpg"
+  original: "Fashion Show 5.jpg"
+  sizes:
+  - "Fashion Show 5.jpg"
+  thumbnail: "thumbs/Fashion Show 5.jpg"
+- filename: "Fashion Show.jpg"
+  original: "Fashion Show.jpg"
+  sizes:
+  - "Fashion Show.jpg"
+  thumbnail: "thumbs/Fashion Show.jpg"
+- filename: "Neck Cuff WIP.jpg"
+  original: "Neck Cuff WIP.jpg"
+  sizes:
+  - "Neck Cuff WIP.jpg"
+  thumbnail: "thumbs/Neck Cuff WIP.jpg"
+- filename: "Shoulder WIP.jpg"
+  original: "Shoulder WIP.jpg"
+  sizes:
+  - "Shoulder WIP.jpg"
+  thumbnail: "thumbs/Shoulder WIP.jpg"
+- filename: "Skeleton 2 WIP.jpg"
+  original: "Skeleton 2 WIP.jpg"
+  sizes:
+  - "Skeleton 2 WIP.jpg"
+  thumbnail: "thumbs/Skeleton 2 WIP.jpg"
+- filename: "Skeleton 3 WIP.jpg"
+  original: "Skeleton 3 WIP.jpg"
+  sizes:
+  - "Skeleton 3 WIP.jpg"
+  thumbnail: "thumbs/Skeleton 3 WIP.jpg"
+- filename: "Skeleton 4 WIP.jpg"
+  original: "Skeleton 4 WIP.jpg"
+  sizes:
+  - "Skeleton 4 WIP.jpg"
+  thumbnail: "thumbs/Skeleton 4 WIP.jpg"
+- filename: "Skeleton 5 WIP.jpg"
+  original: "Skeleton 5 WIP.jpg"
+  sizes:
+  - "Skeleton 5 WIP.jpg"
+  thumbnail: "thumbs/Skeleton 5 WIP.jpg"
+- filename: "Skeleton WIP.jpg"
+  original: "Skeleton WIP.jpg"
+  sizes:
+  - "Skeleton WIP.jpg"
+  thumbnail: "thumbs/Skeleton WIP.jpg"
+- filename: "Sketch 1.jpg"
+  original: "Sketch 1.jpg"
+  sizes:
+  - "Sketch 1.jpg"
+  thumbnail: "thumbs/Sketch 1.jpg"
+- filename: "Sketch 2.jpg"
+  original: "Sketch 2.jpg"
+  sizes:
+  - "Sketch 2.jpg"
+  thumbnail: "thumbs/Sketch 2.jpg"
+- filename: "Sketch 3.jpg"
+  original: "Sketch 3.jpg"
+  sizes:
+  - "Sketch 3.jpg"
+  thumbnail: "thumbs/Sketch 3.jpg"
+- filename: "Sketch.jpg"
+  original: "Sketch.jpg"
+  sizes:
+  - "Sketch.jpg"
+  thumbnail: "thumbs/Sketch.jpg"

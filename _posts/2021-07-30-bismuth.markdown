@@ -6,4 +6,6 @@ preview: /assets/images/Bismuth_4/Cubism.jpg
 support: [jquery, gallery]
 ---
 
+Audrey Hetzel created this series of brooches as an exploration of sexuality in the context of art movements of the twentieth century. Throughout all of the pieces, Hetzel uses bismuth, or a representation of bismuth, to relate how an individual's sexuality is exploited, pursued, or cherished. On the left, this pop art inspired brooch features a resin-casted leg on a backdrop of simulated bismuth, depicting the way pop culture and the media over-sexualize celebrities and shape the views of the common folk. The middle brooch is a cubism influenced design showing how one's sexuality might be controlled by someone else such as in an abusive relationship and how the perception of each party is skewed. The brooch on the right is the dadaism brooch, the culmination of exhaustion from performing to societal standards coupled with rage at the machine that churns out self conscious, lonely, and hurt people. The result is an amalgam of cynicism and nonsensical exhibitionism.
+
 {% include gallery-layout.html gallery=site.data.galleries.bismuth %}

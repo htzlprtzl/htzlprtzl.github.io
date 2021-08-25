@@ -1,18 +1,58 @@
-picture_path: Arachnophilia_1
+picture_path: Solace_3
 preview:
-  filename: Box and Solitaire WIP
-  original: Box and Solitaire WIP.jpg
+  filename: "Solace Necklace WIP.jpg"
+  original: "Solace Necklace WIP.jpg"
   sizes:
-  - Box and Solitaire WIP.jpg
-  thumbnail: Box and Solitaire WIP.jpg
+  - "Solace Necklace WIP.jpg"
+  thumbnail: "thumbs/Solace Necklace WIP.jpg"
 pictures:
-- filename: Box and Solitaire WIP
-  original: Box and Solitaire WIP.jpg
+- filename: "Solace Brooch 2 WIP.jpg"
+  original: "Solace Brooch 2 WIP.jpg"
   sizes:
-  - Box and Solitaire WIP.jpg
-  thumbnail: Box and Solitaire WIP.jpg
-- filename: Chain Brooch 2 WIP
-  original: Chain Brooch 2 WIP.jpg
+  - "Solace Brooch 2 WIP.jpg"
+  thumbnail: "thumbs/Solace Brooch 2 WIP.jpg"
+- filename: "Solace Brooch 2.jpg"
+  original: "Solace Brooch 2.jpg"
   sizes:
-  - Chain Brooch 2 WIP.jpg
-  thumbnail: Chain Brooch 2 WIP.jpg
+  - "Solace Brooch 2.jpg"
+  thumbnail: "thumbs/Solace Brooch 2.jpg"
+- filename: "Solace Brooch 3 WIP.jpg"
+  original: "Solace Brooch 3 WIP.jpg"
+  sizes:
+  - "Solace Brooch 3 WIP.jpg"
+  thumbnail: "thumbs/Solace Brooch 3 WIP.jpg"
+- filename: "Solace Brooch WIP.jpg"
+  original: "Solace Brooch WIP.jpg"
+  sizes:
+  - "Solace Brooch WIP.jpg"
+  thumbnail: "thumbs/Solace Brooch WIP.jpg"
+- filename: "Solace Brooch.jpg"
+  original: "Solace Brooch.jpg"
+  sizes:
+  - "Solace Brooch.jpg"
+  thumbnail: "thumbs/Solace Brooch.jpg"
+- filename: "Solace Earrings.jpg"
+  original: "Solace Earrings.jpg"
+  sizes:
+  - "Solace Earrings.jpg"
+  thumbnail: "thumbs/Solace Earrings.jpg"
+- filename: "Solace Necklace 2 WIp.jpg"
+  original: "Solace Necklace 2 WIp.jpg"
+  sizes:
+  - "Solace Necklace 2 WIp.jpg"
+  thumbnail: "thumbs/Solace Necklace 2 WIp.jpg"
+- filename: "Solace Necklace WIP.jpg"
+  original: "Solace Necklace WIP.jpg"
+  sizes:
+  - "Solace Necklace WIP.jpg"
+  thumbnail: "thumbs/Solace Necklace WIP.jpg"
+- filename: "Solace Necklace.jpg"
+  original: "Solace Necklace.jpg"
+  sizes:
+  - "Solace Necklace.jpg"
+  thumbnail: "thumbs/Solace Necklace.jpg"
+- filename: "Solace Ring.jpg"
+  original: "Solace Ring.jpg"
+  sizes:
+  - "Solace Ring.jpg"
+  thumbnail: "thumbs/Solace Ring.jpg"

@@ -1,18 +1,43 @@
-picture_path: Arachnophilia_1
+picture_path: CAD_5
 preview:
-  filename: Box and Solitaire WIP
-  original: Box and Solitaire WIP.jpg
+  filename: "Bezel Set.jpg"
+  original: "Bezel Set.jpg"
   sizes:
-  - Box and Solitaire WIP.jpg
-  thumbnail: Box and Solitaire WIP.jpg
+  - "Bezel Set.jpg"
+  thumbnail: "thumbs/Bezel Set.jpg"
 pictures:
-- filename: Box and Solitaire WIP
-  original: Box and Solitaire WIP.jpg
+- filename: "Barbarism.jpg"
+  original: "Barbarism.jpg"
   sizes:
-  - Box and Solitaire WIP.jpg
-  thumbnail: Box and Solitaire WIP.jpg
-- filename: Chain Brooch 2 WIP
-  original: Chain Brooch 2 WIP.jpg
+  - "Barbarism.jpg"
+  thumbnail: "thumbs/Barbarism.jpg"
+- filename: "Bezel Set.jpg"
+  original: "Bezel Set.jpg"
   sizes:
-  - Chain Brooch 2 WIP.jpg
-  thumbnail: Chain Brooch 2 WIP.jpg
+  - "Bezel Set.jpg"
+  thumbnail: "thumbs/Bezel Set.jpg"
+- filename: "Cathedral Solitaire.jpg"
+  original: "Cathedral Solitaire.jpg"
+  sizes:
+  - "Cathedral Solitaire.jpg"
+  thumbnail: "thumbs/Cathedral Solitaire.jpg"
+- filename: "Droplet Ring.jpg"
+  original: "Droplet Ring.jpg"
+  sizes:
+  - "Droplet Ring.jpg"
+  thumbnail: "thumbs/Droplet Ring.jpg"
+- filename: "Organic.jpg"
+  original: "Organic.jpg"
+  sizes:
+  - "Organic.jpg"
+  thumbnail: "thumbs/Organic.jpg"
+- filename: "Silver and Garnet Channel.jpg"
+  original: "Silver and Garnet Channel.jpg"
+  sizes:
+  - "Silver and Garnet Channel.jpg"
+  thumbnail: "thumbs/Silver and Garnet Channel.jpg"
+- filename: "Solitaire.jpg"
+  original: "Solitaire.jpg"
+  sizes:
+  - "Solitaire.jpg"
+  thumbnail: "thumbs/Solitaire.jpg"

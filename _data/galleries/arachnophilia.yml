@@ -1,18 +1,178 @@
 picture_path: Arachnophilia_1
 preview:
-  filename: Box and Solitaire WIP
-  original: Box and Solitaire WIP.jpg
+  filename: "Web Ring WIP.jpg"
+  original: "Web Ring WIP.jpg"
   sizes:
-  - Box and Solitaire WIP.jpg
-  thumbnail: Box and Solitaire WIP.jpg
+  - "Web Ring WIP.jpg"
+  thumbnail: "thumbs/Web Ring WIP.jpg"
 pictures:
-- filename: Box and Solitaire WIP
-  original: Box and Solitaire WIP.jpg
+- filename: "Box and Solitaire WIP.jpg"
+  original: "Box and Solitaire WIP.jpg"
   sizes:
-  - Box and Solitaire WIP.jpg
-  thumbnail: Box and Solitaire WIP.jpg
-- filename: Chain Brooch 2 WIP
-  original: Chain Brooch 2 WIP.jpg
+  - "Box and Solitaire WIP.jpg"
+  thumbnail: "thumbs/Box and Solitaire WIP.jpg"
+- filename: "Chain Brooch 2 WIP.jpg"
+  original: "Chain Brooch 2 WIP.jpg"
   sizes:
-  - Chain Brooch 2 WIP.jpg
-  thumbnail: Chain Brooch 2 WIP.jpg
+  - "Chain Brooch 2 WIP.jpg"
+  thumbnail: "thumbs/Chain Brooch 2 WIP.jpg"
+- filename: "Chain Brooch Jo Kaplan.jpg"
+  original: "Chain Brooch Jo Kaplan.jpg"
+  sizes:
+  - "Chain Brooch Jo Kaplan.jpg"
+  thumbnail: "thumbs/Chain Brooch Jo Kaplan.jpg"
+- filename: "Chain Brooch Sketch.jpg"
+  original: "Chain Brooch Sketch.jpg"
+  sizes:
+  - "Chain Brooch Sketch.jpg"
+  thumbnail: "thumbs/Chain Brooch Sketch.jpg"
+- filename: "Chain Brooch WIP.jpg"
+  original: "Chain Brooch WIP.jpg"
+  sizes:
+  - "Chain Brooch WIP.jpg"
+  thumbnail: "thumbs/Chain Brooch WIP.jpg"
+- filename: "Chain Brooch.jpg"
+  original: "Chain Brooch.jpg"
+  sizes:
+  - "Chain Brooch.jpg"
+  thumbnail: "thumbs/Chain Brooch.jpg"
+- filename: "Cuff Sketch.jpg"
+  original: "Cuff Sketch.jpg"
+  sizes:
+  - "Cuff Sketch.jpg"
+  thumbnail: "thumbs/Cuff Sketch.jpg"
+- filename: "Egg Cuff Finished.jpg"
+  original: "Egg Cuff Finished.jpg"
+  sizes:
+  - "Egg Cuff Finished.jpg"
+  thumbnail: "thumbs/Egg Cuff Finished.jpg"
+- filename: "Kite Brooch Sketch.jpg"
+  original: "Kite Brooch Sketch.jpg"
+  sizes:
+  - "Kite Brooch Sketch.jpg"
+  thumbnail: "thumbs/Kite Brooch Sketch.jpg"
+- filename: "Kite Brooch WIP.jpg"
+  original: "Kite Brooch WIP.jpg"
+  sizes:
+  - "Kite Brooch WIP.jpg"
+  thumbnail: "thumbs/Kite Brooch WIP.jpg"
+- filename: "Kite Brooch.jpg"
+  original: "Kite Brooch.jpg"
+  sizes:
+  - "Kite Brooch.jpg"
+  thumbnail: "thumbs/Kite Brooch.jpg"
+- filename: "Kite Drip 2 WIP.jpg"
+  original: "Kite Drip 2 WIP.jpg"
+  sizes:
+  - "Kite Drip 2 WIP.jpg"
+  thumbnail: "thumbs/Kite Drip 2 WIP.jpg"
+- filename: "Kite Drop Chain Brooch Jo Kaplan.jpg"
+  original: "Kite Drop Chain Brooch Jo Kaplan.jpg"
+  sizes:
+  - "Kite Drop Chain Brooch Jo Kaplan.jpg"
+  thumbnail: "thumbs/Kite Drop Chain Brooch Jo Kaplan.jpg"
+- filename: "Kite Drop Jo Kaplan.jpg"
+  original: "Kite Drop Jo Kaplan.jpg"
+  sizes:
+  - "Kite Drop Jo Kaplan.jpg"
+  thumbnail: "thumbs/Kite Drop Jo Kaplan.jpg"
+- filename: "Kite Drop Sketch.jpg"
+  original: "Kite Drop Sketch.jpg"
+  sizes:
+  - "Kite Drop Sketch.jpg"
+  thumbnail: "thumbs/Kite Drop Sketch.jpg"
+- filename: "Kite Drop WIP.jpg"
+  original: "Kite Drop WIP.jpg"
+  sizes:
+  - "Kite Drop WIP.jpg"
+  thumbnail: "thumbs/Kite Drop WIP.jpg"
+- filename: "Kite Drop.jpg"
+  original: "Kite Drop.jpg"
+  sizes:
+  - "Kite Drop.jpg"
+  thumbnail: "thumbs/Kite Drop.jpg"
+- filename: "Kite Ring 2 IWP.jpg"
+  original: "Kite Ring 2 IWP.jpg"
+  sizes:
+  - "Kite Ring 2 IWP.jpg"
+  thumbnail: "thumbs/Kite Ring 2 IWP.jpg"
+- filename: "Kite Ring 2 WIP.jpg"
+  original: "Kite Ring 2 WIP.jpg"
+  sizes:
+  - "Kite Ring 2 WIP.jpg"
+  thumbnail: "thumbs/Kite Ring 2 WIP.jpg"
+- filename: "Kite Ring 3 WIP.jpg"
+  original: "Kite Ring 3 WIP.jpg"
+  sizes:
+  - "Kite Ring 3 WIP.jpg"
+  thumbnail: "thumbs/Kite Ring 3 WIP.jpg"
+- filename: "Kite Ring WIP.jpg"
+  original: "Kite Ring WIP.jpg"
+  sizes:
+  - "Kite Ring WIP.jpg"
+  thumbnail: "thumbs/Kite Ring WIP.jpg"
+- filename: "Kite Ring.jpg"
+  original: "Kite Ring.jpg"
+  sizes:
+  - "Kite Ring.jpg"
+  thumbnail: "thumbs/Kite Ring.jpg"
+- filename: "Leg Brooch Sketch.jpg"
+  original: "Leg Brooch Sketch.jpg"
+  sizes:
+  - "Leg Brooch Sketch.jpg"
+  thumbnail: "thumbs/Leg Brooch Sketch.jpg"
+- filename: "Leg Necklace Sketch.jpg"
+  original: "Leg Necklace Sketch.jpg"
+  sizes:
+  - "Leg Necklace Sketch.jpg"
+  thumbnail: "thumbs/Leg Necklace Sketch.jpg"
+- filename: "Nest Cuff WIP.jpg"
+  original: "Nest Cuff WIP.jpg"
+  sizes:
+  - "Nest Cuff WIP.jpg"
+  thumbnail: "thumbs/Nest Cuff WIP.jpg"
+- filename: "Web Necklace 2 WIP.jpg"
+  original: "Web Necklace 2 WIP.jpg"
+  sizes:
+  - "Web Necklace 2 WIP.jpg"
+  thumbnail: "thumbs/Web Necklace 2 WIP.jpg"
+- filename: "Web Necklace 3 WIP.jpg"
+  original: "Web Necklace 3 WIP.jpg"
+  sizes:
+  - "Web Necklace 3 WIP.jpg"
+  thumbnail: "thumbs/Web Necklace 3 WIP.jpg"
+- filename: "Web Necklace Finished.jpg"
+  original: "Web Necklace Finished.jpg"
+  sizes:
+  - "Web Necklace Finished.jpg"
+  thumbnail: "thumbs/Web Necklace Finished.jpg"
+- filename: "Web Necklace Sketch.jpg"
+  original: "Web Necklace Sketch.jpg"
+  sizes:
+  - "Web Necklace Sketch.jpg"
+  thumbnail: "thumbs/Web Necklace Sketch.jpg"
+- filename: "Web Necklace WIP.jpg"
+  original: "Web Necklace WIP.jpg"
+  sizes:
+  - "Web Necklace WIP.jpg"
+  thumbnail: "thumbs/Web Necklace WIP.jpg"
+- filename: "Web Ring Sketch.jpg"
+  original: "Web Ring Sketch.jpg"
+  sizes:
+  - "Web Ring Sketch.jpg"
+  thumbnail: "thumbs/Web Ring Sketch.jpg"
+- filename: "Web Ring WIP.jpg"
+  original: "Web Ring WIP.jpg"
+  sizes:
+  - "Web Ring WIP.jpg"
+  thumbnail: "thumbs/Web Ring WIP.jpg"
+- filename: "Web Ring.jpg"
+  original: "Web Ring.jpg"
+  sizes:
+  - "Web Ring.jpg"
+  thumbnail: "thumbs/Web Ring.jpg"
+- filename: "Writing Ring Sketch.jpg"
+  original: "Writing Ring Sketch.jpg"
+  sizes:
+  - "Writing Ring Sketch.jpg"
+  thumbnail: "thumbs/Writing Ring Sketch.jpg"

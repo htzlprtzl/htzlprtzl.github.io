@@ -6,4 +6,6 @@ preview: /assets/images/Solace_3/Solace Ring.jpg
 support: [jquery, gallery]
 ---
 
+As someone who experiences dissociation, Audrey Hetzel designed this collection for those who find it comforting to touch soft textures in order to ground themselves. With the use of 36 gauge steel wire, these pieces simulate the feeling of silk.
+
 {% include gallery-layout.html gallery=site.data.galleries.solace %}
