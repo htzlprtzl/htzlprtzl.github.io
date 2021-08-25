@@ -2,7 +2,7 @@
 layout: post
 title:  "Solace"
 date:   2021-07-30 15:39:40
-preview: /assets/images/Solace_3/Solace Ring.jpg
+preview: /assets/images/Solace_3/18- Solace Ring.jpg
 support: [jquery, gallery]
 ---
 

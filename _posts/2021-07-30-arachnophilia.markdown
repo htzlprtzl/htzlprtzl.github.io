@@ -2,7 +2,7 @@
 layout: post 
 title:  "Arachnophilia"
 date:   2021-07-30 15:39:40
-preview: /assets/images/Arachnophilia_1/Kite Brooch.jpg
+preview: /assets/images/Arachnophilia_1/23- Kite Brooch.jpg
 support: [jquery, gallery]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "GoelXHetzel"
 date:   2021-07-30 15:39:40
-preview: /assets/images/GoelxHetzel_2/Sketch 1.jpg
+preview: /assets/images/GoelxHetzel_2/1- Sketch 1.jpg
 support: [jquery, gallery]
 ---
 

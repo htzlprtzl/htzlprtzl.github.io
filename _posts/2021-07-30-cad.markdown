@@ -2,7 +2,7 @@
 layout: post
 title:  "CAD"
 date:   2021-07-30 15:39:40
-preview: /assets/images/CAD_5/Organic.jpg
+preview: /assets/images/CAD_5/5- Organic.jpg
 support: [jquery, gallery]
 ---
 
